@@ -55,6 +55,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Up to chit chat?"
                 }],
          "type":"tilelayer",
          "visible":true,
