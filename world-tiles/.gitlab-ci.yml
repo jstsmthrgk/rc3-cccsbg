@@ -1,0 +1,19 @@
+image: registry.git.cccv.de/infra/static-pages/docker-images/bullseye-directory-listing
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+pages:
+  stage: deploy
+  script:
+    - mkdir .public
+    - cp -r * .public
+    - mv .public public
+    - find public/ -name '.*' -exec rm -r {} \;
+    - apt-get update -qq; apt-get install --reinstall -y libexpat1 #this is a workaround for some strange bug where libexpat is missing
+    - create-directory-html-index --template rc3 ./public ./public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
