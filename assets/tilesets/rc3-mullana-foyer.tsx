@@ -3,5 +3,5 @@
  <properties>
   <property name="tilesetCopyright" value="cc0 cc@mullana.de"/>
  </properties>
- <image source="../../world-tiles/rc3-2020/deco/rc3-mullana-foyer.png" width="1024" height="1024"/>
+ <image source="../alien/world-tiles/rc3-2020/deco/rc3-mullana-foyer.png" width="1024" height="1024"/>
 </tileset>

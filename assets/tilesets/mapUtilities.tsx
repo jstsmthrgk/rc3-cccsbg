@@ -3,7 +3,7 @@
  <properties>
   <property name="tilesetCopyright" value="cc0 cc@mullana.de"/>
  </properties>
- <image source="../../world-tiles/rc3-2020/structures/mapUtilities.png" width="288" height="32"/>
+ <image source="../alien/world-tiles/rc3-2020/structures/mapUtilities.png" width="288" height="32"/>
  <tile id="3">
   <properties>
    <property name="collides" type="bool" value="true"/>
