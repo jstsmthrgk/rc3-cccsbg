@@ -95,7 +95,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"Up to chit chat?"
+                 "value":"Up to some chit chat?"
                 }],
          "type":"tilelayer",
          "visible":true,
