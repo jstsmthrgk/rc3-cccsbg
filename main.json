@@ -9270,12 +9270,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"Public domain: This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer. "
-                }, 
-                {
-                 "name":"tilesetUrl",
-                 "type":"string",
-                 "value":"https:\/\/commons.wikimedia.org\/wiki\/File:TabulaPeutingeriana.jpg"
+                 "value":"Public domain: This work is in the public domain in its country of origin and other countries and areas where the copyright term is the author's life plus 100 years or fewer.  (https:\/\/commons.wikimedia.org\/wiki\/File:TabulaPeutingeriana.jpg)"
                 }],
          "spacing":0,
          "tilecount":16,
