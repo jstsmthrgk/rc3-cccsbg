@@ -33,6 +33,12 @@
          "id":10,
          "name":"silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":12,
@@ -179,15 +185,6 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
                          "type":"bool",
                          "value":true
                         }]
