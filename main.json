@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/visit.rc3.world\/@\/rc3_21\/Aaaaaaaaaaaa\/main.json#start_Aaaaaaaaaaaa"
+                 "value":"world:\/\/visit.rc3.world\/@\/rc3_21\/Aaaaaaaaaaaa\/main.json#start_Aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
