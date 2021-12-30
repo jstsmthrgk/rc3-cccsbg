@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/devlol\/bahnsteig.json#"
+                 "value":"https:\/\/visit.rc3.world\/@\/rc3_21\/Aaaaaaaaaaaa\/main.json#start_Aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
