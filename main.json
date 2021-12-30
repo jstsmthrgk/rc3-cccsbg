@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"bahnsteig.json#start0"
+                 "value":"bahnsteig.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/visit.rc3.world\/@\/rc3_21\/Aaaaaaaaaaaa\/main.json#start_Aaaaaaaaaaaa"
+                 "value":"world:\/\/Aaaaaaaaaaaa\/main.json#start_Aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
