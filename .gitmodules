@@ -1,0 +1,6 @@
+[submodule "assets/alien/world-tiles"]
+	path = assets/alien/world-tiles
+	url = https://git.cccv.de/rc3/world-tiles.git
+[submodule "assets/alien/rc3_tiles"]
+	path = assets/alien/rc3_tiles
+	url = https://github.com/c3CERT/rc3_tiles.git
